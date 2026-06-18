@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Jyoti Meena
 
-🚀 Python | Agentic AI || Copilot Studio Developer | AI Enthusiast
- Power Platform Developer
+🚀 Python | Agentic AI || Copilot Studio Developer | AI Enthusiast | Power Platform Developer
  
 ## 👀 I'm interested in
 
